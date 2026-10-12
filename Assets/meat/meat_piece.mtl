@@ -1,0 +1,11 @@
+newmtl main
+Kd 1.0 1.0 1.0
+map_Kd textures/color.jpeg
+
+newmtl first
+Kd 1.0 1.0 1.0
+map_Kd textures/color.jpeg
+
+newmtl second
+Kd 1.0 1.0 1.0
+map_Kd textures/color.jpeg

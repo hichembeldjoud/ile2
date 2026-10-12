@@ -1,0 +1,19 @@
+# Realistic Deer Materials
+newmtl Deer_Antler
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.100 0.100 0.100
+Ns 20.0
+d 1.0
+illum 2
+map_Kd Textures/Deer_Antler_BaseColor.png
+bump Textures/Deer_Antler_Normal.png
+
+newmtl Deer_M
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.100 0.100 0.100
+Ns 20.0
+d 1.0
+illum 2
+map_Kd Textures/Deer_Body_BaseColor.png
